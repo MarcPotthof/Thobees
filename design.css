@@ -25,13 +25,14 @@
 {
    padding-top: 5em;
    padding-bottom: 5em;
-   margin: -1%;
-   width: 102%;
+   padding-left: 10%;
+   margin: -10%;
+   width: 120%;
    background-color: rgb(31, 31, 31);
 }
 body
 {
-   background-color: black;
+   background-color: rgb(31, 31, 31);
    color: black;
    background-image: url("indexbackground.jpg");
    background-size: cover;
