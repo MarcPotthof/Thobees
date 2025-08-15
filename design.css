@@ -6,10 +6,13 @@
 .wrapper
 {
    float: left;
-   width: 90%;
-   padding: 5%;
-   margin: auto;
-   height: 90%;
+   width: 100%;
+   padding-top: 5%;
+   height: 100%;
+
+   background-image: url("indexbackground.jpg");
+   background-size: cover;
+   background-position-x: center;
 }
 .socialmediaicon
 {
@@ -23,22 +26,17 @@
 }
 .infopanel
 {
-   padding-top: 5em;
-   padding-bottom: 5em;
-   padding-left: 10%;
-   margin-left: -10%;
-   margin-right: -10%;
-   width: 120%;
+   float: left;
+   padding-top: 2.5em;
+   padding-bottom: 2.5em;
+   width: 100%;
+   margin: 0%;
    background-color: rgb(31, 31, 31);
 }
 body
 {
    background-color: rgb(31, 31, 31);
    color: black;
-   background-image: url("indexbackground.jpg");
-   background-size: cover;
-   background-position-x: center;
-   background-repeat: no-repeat;
 }
 h2
 {
