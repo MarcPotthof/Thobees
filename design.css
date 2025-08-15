@@ -26,7 +26,8 @@
    padding-top: 5em;
    padding-bottom: 5em;
    padding-left: 10%;
-   margin: -10%;
+   margin-left: -10%;
+   margin-right: -10%;
    width: 120%;
    background-color: rgb(31, 31, 31);
 }
